@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+bin/
+etc/
+include/
+lib/
+lib64
+share/
+pyvenv.cfg
