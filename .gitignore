@@ -10,3 +10,4 @@ lib/
 lib64
 share/
 pyvenv.cfg
+*.csv
